@@ -1,0 +1,7 @@
+# GIMP gimp-rect-select-tool options
+
+(fixed-rule width)
+(round-corners yes)
+(corner-radius 32.700000000000003)
+
+# end of gimp-rect-select-tool options
